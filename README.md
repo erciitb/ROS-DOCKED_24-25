@@ -26,9 +26,6 @@ This repository contains the files required to install Docker and ROS. Go throug
 
 ### System Requirements and Installation
 
-#### macOS
-- [Docker Installation for macOS](https://docs.docker.com/desktop/install/mac-install/)
-
 #### Windows
 - [Docker Installation for Windows](https://docs.docker.com/desktop/install/windows-install/)
 
