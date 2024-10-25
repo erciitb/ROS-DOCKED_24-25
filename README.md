@@ -29,9 +29,6 @@ This repository contains the files required to install Docker and ROS. Go throug
 #### Windows
 - [Docker Installation for Windows](https://docs.docker.com/desktop/install/windows-install/)
 
-#### Linux
-- [Docker Installation for Linux](https://docs.docker.com/desktop/install/linux-install/)
-
 ### Starting Docker Desktop
 - Start Docker Desktop and ensure it is running.
 
