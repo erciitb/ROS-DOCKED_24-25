@@ -14,7 +14,7 @@ This repository contains the files required to install Docker and ROS. Go throug
 
 ### Basic Setup
 1. Search for "Turn Windows features on and off".
-2. Enable "Windows Hyperwiser platform" and "Windows Subsystem for Linux".
+2. Enable "Windows Hypervisor platform" and "Windows Subsystem for Linux".
 
 ![Screenshot 2024-07-27 110932](https://github.com/user-attachments/assets/14a63d46-4be2-4e31-8dd7-a51f2c569afa)
 ![Screenshot 2024-07-27 113538](https://github.com/user-attachments/assets/df1e554d-ccc8-4cee-94f1-016ea8505b5d)
