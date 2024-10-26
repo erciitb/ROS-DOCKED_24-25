@@ -5,7 +5,8 @@ This repository contains the files required to install Docker and ROS. Go throug
 ## Visual Studio Code
 
 ### Installation
-- [Download VS Code](https://code.visualstudio.com/download)
+
+- Install Visual Studio Code from the Microsoft Store. (Store > Search for "VS Code" > Get)
 
 ### Video Reference
 - [VS Code Setup Video](https://youtu.be/bN6DE-4uFNo?feature=shared)
